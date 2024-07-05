@@ -1,0 +1,1 @@
+{a**2 for a in range(4)}
